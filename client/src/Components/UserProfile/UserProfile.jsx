@@ -179,7 +179,7 @@ function UserProfile() {
                       <p className="mb-0">Address</p>
                     </div>
                     <div className="col-sm-9">
-                      <p className="text-muted mb-0">INQ,Palarivattom</p>
+                      <p className="text-muted mb-0">HeadQ,Maradu</p>
                     </div>
                   </div>
                 </div>

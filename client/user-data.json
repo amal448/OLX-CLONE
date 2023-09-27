@@ -1,0 +1,17 @@
+[{
+  "_id": {
+    "$oid": "641e7a36ca84ffa69ecca7f6"
+  },
+  "username": "Amal Thomas",
+  "email": "amal@gmail.com",
+  "password": "$2b$10$YLgqwd5KDHZOjwdccdKzr.5GG8A2GHosjsB3O4XOzQURjHvahHRuy",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6421a5c8ffcee5df744f818d"
+  },
+  "username": "admin",
+  "email": "admin@gmail.com",
+  "password": "$2b$10$PJsMXqwSvoQC9vfFD/G0s.kPK4DxLAS9tXRcVsVhhy/FmQcFPMLcq",
+  "__v": 0
+}]

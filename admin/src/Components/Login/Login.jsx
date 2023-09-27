@@ -15,7 +15,9 @@ function Login() {
   const dispatch = useDispatch();
   const navigate = useNavigate();
   const [email, setEmail] = useState("admin@gmail.com");
-  const [password, setPassword] = useState("safeer123");
+
+  const [password, setPassword] = useState("amal123");
+
   const Submit = (e) => {
     e.preventDefault();
     const body = JSON.stringify({
